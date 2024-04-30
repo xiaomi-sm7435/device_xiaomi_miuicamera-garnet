@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=miuicamera-marble
+DEVICE=miuicamera-garnet
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
